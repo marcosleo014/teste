@@ -7,7 +7,6 @@ def fatorial(n):
             fat *= n
             n-=1
         return fat
-        return n*fatorial(n)
     
 def impressão(self):
     print(f'palavra: {self.palavra}')
